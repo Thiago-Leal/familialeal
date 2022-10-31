@@ -41,4 +41,4 @@ if ($nomes[$nome]['senha'] != $_POST['password']){
     die('Senha errada, solicite ao Thiago a senha correta.');
 }
 
-echo $_POST['name'] . ', seu amigo secreto é: <br>' . ucfirst($nomes[$nome]['amigo']);
+echo ucfirst($nome) . ', seu amigo secreto é: <br>' . ucfirst($nomes[$nome]['amigo']);
