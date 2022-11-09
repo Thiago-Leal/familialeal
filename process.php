@@ -10,7 +10,7 @@ $nomes = [
     'josé luiz' => ['senha' => 1203, 'amigo' => 'marcos'],
     'cleide' => ['senha' => 3021, 'amigo' => 'manu'],
     'clara' => ['senha' => 4506, 'amigo' => 'allyson'],
-    'bonnye' => ['senha' => 6504, 'amigo' => 'caroline'],
+    'bonnye' => ['senha' => 6504, 'amigo' => 'júlia'],
     'marcos' => ['senha' => 7809, 'amigo' => 'josé luiz'],
     'júlia' => ['senha' => 9807, 'amigo' => 'michele'],
     'allyson' => ['senha' => 2222, 'amigo' => 'eliene'],
@@ -29,7 +29,7 @@ $nomes = [
     'mônica' => ['senha' => 4404, 'amigo' => 'hilda'],
     'lara' => ['senha' => 5505, 'amigo' => 'jason'],
     'levy' => ['senha' => 6066, 'amigo' => 'elaine'],
-    'thiago' => ['senha' => 7077, 'amigo' => 'júlia'],
+    'thiago' => ['senha' => 7077, 'amigo' => 'caroline'],
     'simone' => ['senha' => 8088, 'amigo' => 'jullie'],
 ];
 
