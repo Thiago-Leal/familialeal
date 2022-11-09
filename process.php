@@ -11,7 +11,7 @@ $nomes = [
     'cleide' => ['senha' => 3021, 'amigo' => 'manu'],
     'clara' => ['senha' => 4506, 'amigo' => 'allyson'],
     'bonnye' => ['senha' => 6504, 'amigo' => 'caroline'],
-    'marcos' => ['senha' => 7809, 'amigo' => 'luiz'],
+    'marcos' => ['senha' => 7809, 'amigo' => 'josé luiz'],
     'júlia' => ['senha' => 9807, 'amigo' => 'michele'],
     'allyson' => ['senha' => 2222, 'amigo' => 'eliene'],
     'michele' => ['senha' => 1047, 'amigo' => 'lara'],
